@@ -5,7 +5,7 @@
 
 **Author:** Deoj Balcanao
 
-**GH Pages:** 
+**GH Pages:** https://codedeoj.github.io/cpnt260-a3/
 ## Above and beyond
 **I added a primary navigation to the footer**
 - See line 39 index.html
